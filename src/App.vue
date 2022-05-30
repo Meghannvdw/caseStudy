@@ -13,7 +13,7 @@
             <FeaturedCard>
               <FeaturedCardTop>
                 <div>Lorem ipsum dolor</div>
-                <FeaturedCardStat>32</FeaturedCardStat>
+                <FeaturedCardStat>43</FeaturedCardStat>
               </FeaturedCardTop>
               <v-card-text>
                 Behaalde punten
