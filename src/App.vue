@@ -21,10 +21,17 @@
               </v-card-text>
             </FeaturedCard>
           </v-col>
-          <v-col :cols="12" md="auto grow">
-            <v-card> content </v-card>
+
+          <v-col>
+            <v-row>
+              <v-col>
+                <Card>
+                </Card>
+              </v-col>
+            </v-row>
           </v-col>
         </v-row>
+
       </v-container>
     </v-main>
   </v-app>
